@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-overlay"></div> 
+    
+    <div class="container">
+        <h1>Pokémon Search</h1>
+        <input type="text" id="pokemonName" placeholder="Enter Pokémon name...">
+        <button onclick="searchPokemon()">Search</button>
+        
+        <div id="pokemonResult">
+            <h2 id="pokemonTitle"></h2>
+            <p id="pokemonDescription"></p>
+            <img id="pokemonImage" src="pokemon.jpg" alt="">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
