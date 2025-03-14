@@ -1,0 +1,21 @@
+{
+  "name": "-bsit_31a3_prelim_a3_pokemonappcomparison",
+  "version": "1.0.0",
+  "description": "The homepage starts with a Pokémon-themed background, and after searching, the background updates with the searched Pokémon’s image at 80% opacity. \r The Pokémon’s name and description are centered, semi-transparent, and styled with a font similar to the Pokémon logo. \r The background overlay ensures visibility, and the Live Server in VS Code helps display changes smoothly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riciapulon/-BSIT_31A3_PRELIM_A3_PokemonAppComparison.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/riciapulon/-BSIT_31A3_PRELIM_A3_PokemonAppComparison/issues"
+  },
+  "homepage": "https://github.com/riciapulon/-BSIT_31A3_PRELIM_A3_PokemonAppComparison#readme"
+}
